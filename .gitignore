@@ -1,0 +1,14 @@
+# data / private / large
+dictionary/
+WALS/wals_data.csv
+model/monolingual_corpus/
+model/training_corpus/
+venv/
+venv/
+wandb/
+outputs/
+logs/
+__pycache__/
+*.pyc
+*.tgz
+*.bin
